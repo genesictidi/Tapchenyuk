@@ -41,3 +41,5 @@ class Game:
 
 game = Game()
 game.game()
+
+print("Hello World")
